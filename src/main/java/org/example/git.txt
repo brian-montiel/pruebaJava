@@ -1,5 +1,5 @@
 -- GIT INIT - Inicias un proyecto git.
--- git remote add origin {"url"} -- para enlazar tu proyecto en local con tu proyecto de gitHUB (No confundir con pornHub)
+-- git remote add origin {"url"} -- para enlazar tu proyecto en local con tu proyecto de gitHUB
 -- git add {URL...} -- Este comando te añade cualquier fichero/programa/imagen...
 -- git commit ..
 -- git push
